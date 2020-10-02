@@ -1,3 +1,5 @@
+const inquirer = require('inquirer');
+
 // array of questions for user
 const questions = [
     {
@@ -26,27 +28,31 @@ const questions = [
             }
         }
     },
-    {
-        type: '',
-        name: '',
-        message: '',
-        default: true
-    },
-    {
-        type: '',
-        name: '',
-        message: '',
-    }
+    //{
+        //type: '',
+        //name: '',
+        //message: '',
+        //default: true
+    //},
+    //{
+        //type: '',
+        //name: '',
+        //message: '',
+    //}
 ]
 
+inquirer.prompt(questions).then(answers => {
+    //user feedback
+})
+
 // function to write README file
-function writeToFile(fileName, data) {
-}
+//function writeToFile(fileName, data) {
+//}
 
 // function to initialize program
-function init() {
+//function init() {
 
-}
+//}
 
 // function call to initialize program
-init();
+//init();
