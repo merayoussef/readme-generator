@@ -1,40 +1,41 @@
-# testing txt
+# readme-generator
 
   ## Description 
 
-  txt
+  Generate a readme file using node.js inquirer package to create a readme file based on user's input from questions.
 
 
   ## Table of Content 
+  
 
-  Installation,Usage,License
+  Installation,Usage,License,contributing,tests,questions
   
 
   ## Installation 
 
-  txt
+  Download GitHub repo and install node.js after opening the file, type node index.js in the commandline to run the file and confirm node is installed. After use the commandline to run npm init to initalize the packages 
 
 
   ## Usage 
 
-  txt
+  Once in file, in the command line enter node index.js to run the file and a series of questions will be prompted to answer. Once answered, the information will be saved in the readme.md file.
 
 
   ## License 
 
-  The Unlicense
+  MIT License
 
 
   ## Contributing 
 
-  txt
+  None
 
 
   ## Tests 
 
-  txt
+  None
 
-  
+
   ## Questions 
 
-  txt
+  None
