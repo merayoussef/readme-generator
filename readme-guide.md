@@ -2,7 +2,7 @@
 
 ## Description 
 
-This project uses the node command line to prompt users with questions to input answers that will store the user input and create a readme.md file.
+This project uses the node command line to prompt users with questions to input answers that willtake the user input and create a readme.md file.
 
 ## Table of Contents (Optional)
 
