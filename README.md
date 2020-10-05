@@ -2,12 +2,12 @@
 
   ## Description 
 
-  To create an readme.md from answers input from the command line
+   Using node.js to prompt user's questions and accept user's input to generate a readme file.
 
 
   ## Table of Content 
 
-  Installation,Usage,License,contributing,tests,questions 
+  Installation ,Usage ,License ,contributing ,tests ,questions  
     
 * [Installation](#installation)
 * [Usage](#usage)
@@ -21,12 +21,12 @@
 
   ## Installation 
 
-  Download node.js, run To generate your own README, first run npm install in order to install the following npm package dependencies as specified in the package.json:
+  Download node.js, clone the repo and open the command line, in the commandline write node index.js to run the questions prompt and answer all  the questions, once done a readme will generate with the answers  from the user's input in the commandline. 
 
 
   ## Usage 
 
-  inquirer that will prompt you for your inputs from the command line please see
+  Please see video.
 
 
   ## License 
@@ -36,14 +36,14 @@
 
   ## Contributing 
 
-  to contribute, please visit github page
+  To contribute, please visit https://github.com/merayoussef/readme-generator
 
 
   ## Tests 
 
-  please see tutorial video
+  Please see tutorial video
 
   
   ## Questions 
 
-  none
+  Please email merayoussef91@hotmail.com
