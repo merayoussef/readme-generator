@@ -25,7 +25,7 @@ This project uses the node command line to prompt users with questions to input 
 
 ## Usage 
 
-// add video here
+[![Watch this video](.\Develop\utils\media\readme-img.PNG)](https://drive.google.com/file/d/1R3VFKKG-4WNAATjDhbkH0mLSTN0byxd8/view)
 
 
 ## License
