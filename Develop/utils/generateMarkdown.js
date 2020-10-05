@@ -8,9 +8,17 @@ function generateMarkdown(data) {
 
 
   ## Table of Content 
-  
 
-  ${data.tableofContent}
+  ${data.tableofContent} 
+    
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+  
   
 
   ## Installation 
@@ -37,7 +45,7 @@ function generateMarkdown(data) {
 
   ${data.tests}
 
-
+  
   ## Questions 
 
   ${data.questions}

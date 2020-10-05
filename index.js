@@ -32,11 +32,10 @@ const questions = [
         }
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'tableofContent',
         message: 'Table of Content:',
-        choices: ["Installation", "Usage", "License", "contributing", "tests", "questions"],
-        default: ["#installation", "#usage", "#license", "#contributing", "#tests", "#questions"]
+        choices: ["Installation ", "Usage ", "License ", "contributing ", "tests ", "questions "],
     },
     {
         type: 'input',

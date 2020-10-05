@@ -2,23 +2,31 @@
 
   ## Description 
 
-  Generate a readme file using node.js inquirer package to create a readme file based on user's input from questions.
+  To create an readme.md from answers input from the command line
 
 
   ## Table of Content 
-  
 
-  Installation,Usage,License,contributing,tests,questions
+  Installation,Usage,License,contributing,tests,questions 
+    
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+  
   
 
   ## Installation 
 
-  Download GitHub repo and install node.js after opening the file, type node index.js in the commandline to run the file and confirm node is installed. After use the commandline to run npm init to initalize the packages 
+  Download node.js, run To generate your own README, first run npm install in order to install the following npm package dependencies as specified in the package.json:
 
 
   ## Usage 
 
-  Once in file, in the command line enter node index.js to run the file and a series of questions will be prompted to answer. Once answered, the information will be saved in the readme.md file.
+  inquirer that will prompt you for your inputs from the command line please see
 
 
   ## License 
@@ -28,14 +36,14 @@
 
   ## Contributing 
 
-  None
+  to contribute, please visit github page
 
 
   ## Tests 
 
-  None
+  please see tutorial video
 
-
+  
   ## Questions 
 
-  None
+  none
